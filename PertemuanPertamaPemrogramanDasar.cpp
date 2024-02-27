@@ -17,6 +17,7 @@ int main()
     system("pause");
     
     float njejari, nluas;
+    cout <<"=====luas lingkaran=====" << endl
 
 
 
